@@ -8,9 +8,23 @@ body{
     padding: 5px;
     width: 500px;
     margin: 0 auto;
+   
+    
 
 
 }
 .title{
     font-size: 30px;
+}
+.header-container{
+    background-color: deepskyblue;
+    width: 500px;
+    text-align: center;
+    margin:0 auto;
+   
+}
+.header-t{
+    background-color: firebrick;
+    margin-bottom: 0px;
+    
 }
